@@ -1,20 +1,4 @@
 
-<h1 align="center">
-  <br>
-<img src="https://i.ibb.co/SJjdwmF/banner-logo.png" alt="WhatsApp Desktop Dark Mode by m4heshd">
-  <br>
-WhatsApp Desktop Dark Mode by <a href="https://github.com/m4heshd">m4heshd</a>
-  <br>
-<img src="https://img.shields.io/github/downloads/m4heshd/whatsapp-desktop-dark/total.svg?label=Downloads&logo=WhatsApp&color=5792ff&logoColor=5792ff&labelColor=272c35" alt="Total downloads" height="25.2">
-<a href="https://github.com/m4heshd/whatsapp-desktop-dark/issues?q=is%3Aissue+is%3Aclosed" target="_blank">
-    <img src="https://img.shields.io/github/issues-closed/m4heshd/whatsapp-desktop-dark?label=Issues&logo=github&color=5792ff&logoColor=5792ff&labelColor=272c35" alt="Closed issues" height="25.2">
-</a>
-<a href="https://t.me/wadarkmodechat" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Telegram%20Chat&logo=Telegram&color=5792ff&logoColor=5792ff&labelColor=272c35&message=Join" alt="Join the chat on Telegram" height="25.2">
-</a>
-  <br>
-</h1>
-
 Stable version: [**`0.4.930`**](https://github.com/m4heshd/whatsapp-desktop-dark/releases/tag/0.4.930) (Check if this version matches with your version of WhatsApp. The mod will still work even if the versions doesn't match)
 
 This mod is a simple tweak for [WhatsApp Desktop **Official** version](https://www.whatsapp.com/download/) to make it look awesomely dark.
